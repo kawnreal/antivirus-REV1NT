@@ -3,7 +3,6 @@
 Python ve CustomTkinter kullanılarak geliştirilmiş, modern ve kullanıcı dostu bir antivirüs programı arayüzü projesi.
 
 ![Uygulama Ana Ekranı](https://i.imgur.com/gBDkvLF.png)
-*(Not: Bu linki kendi ekran görüntünüzle güncelleyin.)*
 
 ## Tanıtım
 
