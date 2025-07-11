@@ -2,7 +2,7 @@
 
 Python ve CustomTkinter kullanılarak geliştirilmiş, modern ve kullanıcı dostu bir antivirüs programı arayüzü projesi.
 
-![Uygulama Ana Ekranı](https://imgur.com/gBDkvLF)
+![Uygulama Ana Ekranı](https://i.imgur.com/gBDkvLF.png)
 *(Not: Bu linki kendi ekran görüntünüzle güncelleyin.)*
 
 ## Tanıtım
@@ -30,8 +30,8 @@ Arka plan tarama mantığı, şu anda bilinen ve zararsız olan EICAR test virü
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone [https://github.com/kawnreal/antivirus-REV1NT.git](https://github.com/kawnreal/antivirus-REV1NT.git)
+cd REV1NT
 2. Sanal Ortam Oluşturun ve Aktive Edin (Önerilir)
 ```
 
